@@ -1,0 +1,9 @@
+Este es el ejemplo para la Aplicación 37 de todos los archivos a enciptar
+Debe Poseer mayus, minus, simbolos "$"#$ saltos de paginas, etc...
+
+
+Wikipedia (Listeni/ˌwɪkᵻˈpiːdiə/ or Listeni/ˌwɪkiˈpiːdiə/ wik-i-pee-dee-ə) is a free online encyclopedia that allows its users to edit almost any article.[4] Wikipedia is the largest and most popular general reference work on the Internet[5][6][7] and is ranked among the ten most popular websites.[2] Wikipedia is owned by the nonprofit Wikimedia Foundation.[8][9][10]
+
+Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger. Sanger[11] coined its name,[12] a portmanteau of wiki[notes 3] and encyclopedia. It was only in the English language initially, but it quickly developed similar versions in other languages which differ in content and in editing practices. With 5,243,582 articles, English Wikipedia is the largest out of more than 290 versions of encyclopedias on Wikipedia. Overall, Wikipedia consists of more than 40 million articles in more than 250 different languages[14] and as of February 2014, it had 18 billion page views and nearly 500 million unique visitors each month.[15]
+
+In 2005, Nature published a peer review comparing 42 science articles from Encyclopædia Britannica and Wikipedia, and found that Wikipedia's level of accuracy approached Encyclopædia Britannica's.[16] Criticism of Wikipedia includes claims that it exhibits systemic bias, presents a mixture of "truths, half truths, and some falsehoods",[17] and that in controversial topics, it is subject to manipulation and spin.[18]
